@@ -7,3 +7,15 @@
 .container {
     margin: 100px auto 100px auto;
 }
+
+table {
+    text-align: center;
+}
+
+thead {
+    background-color: plum;
+}
+
+thead th {
+    color: whitesmoke;
+}
