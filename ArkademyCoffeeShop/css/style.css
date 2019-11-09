@@ -8,6 +8,14 @@
     margin: 100px auto 100px auto;
 }
 
+.editLink {
+    color: greenyellow;
+}
+
+.deleteLink {
+    color: red;
+}
+
 table {
     text-align: center;
 }
